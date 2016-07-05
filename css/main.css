@@ -47,6 +47,17 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
 }
 
 
+.blank {
+    background: 4b3939;
+    height: 350px;
+    
+}
+
+.discover {
+    background: #fff;
+    height: 145px;
+}
+
 .left1{background-color: #fff;float:left;width:50%;height:400px;}
 .left1 p{padding-left: 200px;padding-top: 100px;}
 .left1 span{padding-left: 200px;font-size: 72px;}
