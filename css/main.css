@@ -1,0 +1,33 @@
+@import 'https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz';
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+body{background-color: #4b3939;font-family: 'Yanone Kaffeesatz', sans-serif;}
+.wrapper{width:100%;height:100%;}
+.menu{text-align: center;font-size: 14px;
+  padding-top: 30px;vertical-align: text-top;}
+.menu ul{
+  list-style-type: none;
+  margin: 0;padding: 0;
+  overflow: hidden;}
+.menu li {
+  float: left; padding-right: 10px;}
+.menu li a:hover {
+}
+.menu a {
+  color:#fff;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 6px;}
+.social{ padding: 0;float:right;color: #fff;}
+.landing{
+  vertical-align: middle;
+  float: left;
+  text-align: center;
+  width:100%;
+  color: #fff;
+  font-size: 20px;
+}
+.landing span{font-family: 'Roboto', serif;font-size: 72px;}
+.landing .explorer{
+  background-color: #fff;color:#000;
+  border: 1px solid;text-decoration: none;}
