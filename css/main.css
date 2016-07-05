@@ -56,6 +56,29 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
 .discover {
     background: #fff;
     height: 145px;
+    
+}
+
+.btn {
+    background: red;
+    border-radius: 4px;
+    color: #4b3939;
+    cursor: pointer;
+    display: inline-block;
+    margin-top:30px; 
+    font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid ;
+    padding: 10px 20px;
+}
+
+.btn-alt {
+    position: absolute;
+    left: 200px;
+ 
 }
 
 .left1{background-color: #fff;float:left;width:50%;height:400px;}
