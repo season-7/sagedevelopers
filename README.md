@@ -1,1 +1,1 @@
-# sagedevelopers
+# sage is a company of amazing people that design and develop minimal websites.
