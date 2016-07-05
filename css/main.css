@@ -29,16 +29,31 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
   font-size: 20px;
 }
 .landing span{font-family: 'Roboto Slab', serif;font-size: 50px;}
-.landing .explorer{
-  background-color: #fff;color:#000;width:200px;height:80px;
-  padding:50px 50px solid;text-align: center;text-decoration: none;}
-header{}
+
+
+.explorer {
+    background: #fff;
+    border-radius: 4px;
+    color: #4b3939;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid ;
+    padding: 10px 20px;
+}
+
 
 .left1{background-color: #fff;float:left;width:50%;height:400px;}
 .left1 p{padding-left: 200px;padding-top: 100px;}
 .left1 span{padding-left: 200px;font-size: 72px;}
+
 .right1{
   text-align: left;background-color: red;
   float:left;width:50%;height:400px;
   padding-top: 450px;color:#fff;}
+
 .right1 h2{font-family: 'Roboto Slab', serif;font-size: 46px;}
