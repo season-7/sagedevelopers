@@ -48,7 +48,7 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
 
 
 .blank {
-    background: 4b3939;
+    background: #4b3939;
     height: 350px;
     
 }
@@ -62,7 +62,7 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
 .btn {
     background: red;
     border-radius: 4px;
-    color: #4b3939;
+    color: #fff;
     cursor: pointer;
     display: inline-block;
     margin-top:20px; 
@@ -84,8 +84,8 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
     margin: 0px;
 }
 
-.left1{background-color: #fff;float:left;width:50%;height:400px;}
-.left1 p{padding-left: 200px;padding-top: 100px;}
+.left1{background-color: #ddd;float:left;width:50%;height:400px;}
+.left1 p{background: #ddd; padding-left: 200px;padding-top: 100px; padding-bottom: 14px;}
 .left1 span{padding-left: 200px;font-size: 72px;}
 
 .right1{
@@ -94,3 +94,36 @@ body{background-color: #4b3939;color:#4b3939;font-family: 'Yanone Kaffeesatz', s
   padding-top: 450px;color:#fff;}
 
 .right1 h2{font-family: 'Roboto Slab', serif;font-size: 46px;}
+
+
+.left2 {
+    background: #fff;
+    float: left;
+    width: 50%;
+    height: 800px;
+}
+
+.left2 h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 46px;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.left2 p {
+    padding-left: 200px;
+}
+
+.right2 {
+    background: #fff;
+    float: right;
+    width: 50%;
+    height: 800px;
+}
+
+.right2 img {
+    padding-top: 140px;
+    padding-left: 100px;
+    text-align: center;
+    
+}
